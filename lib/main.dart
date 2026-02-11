@@ -28,7 +28,7 @@ class Catalogo extends StatelessWidget {
         leading: Icon(Icons.flight),
         actions: const [
           Icon(Icons.more_vert),
-          Icon(Icons.favorite),
+          Icon(Icons.favorite)
         ],
       ),
     );
